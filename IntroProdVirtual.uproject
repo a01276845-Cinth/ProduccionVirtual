@@ -22,6 +22,15 @@
 		{
 			"Name": "NiagaraMRQ",
 			"Enabled": true
+		},
+		{
+			"Name": "NukeServer",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Linux",
+				"Mac",
+				"Win64"
+			]
 		}
 	]
 }
